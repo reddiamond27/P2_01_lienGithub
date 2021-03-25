@@ -1,0 +1,235 @@
+
+    h2{
+        font-size: 20px;}
+        h3{
+            font-size: 16px;}
+            h4{
+                font-size: 14px;}
+                h5{
+                    font-size: 10px}
+                    p {font-family: 'Raleway', sans-serif;}
+                   h2 {font-family: 'Raleway', sans-serif;}
+                   h3 {font-family: 'Raleway', sans-serif;}
+                   h4 {font-family: 'Raleway', sans-serif;}
+                   h5 {font-family: 'Raleway', sans-serif;}
+                   h6 {font-family: 'Raleway', sans-serif;}
+                 
+                   img { width : 300px;  
+                    vertical-align:middle;}
+
+                .tittle{margin-left: 1%;
+                        width: 6%;
+                        height:6%;}
+
+                .inscription {margin-left: 83%;
+                            margin-top: -2%;
+                            letter-spacing: 1px;  
+                            word-spacing: 4px;}
+
+                .top{margin-top: 2%;
+                margin-left: 1.2%;}
+
+                .tope{margin-left: 1.2%;
+                      margin-top: -1%;}
+                     
+
+                .filtres{margin-left: 1.2%;
+                    margin-top: 4%;}
+
+                .lien{margin-top: -1.9%;
+                    margin-left: 4%;
+                    word-spacing: 10px;}
+
+                .gris{margin-top: 2%;
+                     margin-left: 20px;}
+
+                .hebergement{margin-top: 3%;
+                    margin-left: 1.6%;}
+
+                .populaires{margin-top: -2.2%;
+                     margin-left: 66%;
+                    word-spacing: 4px;}
+
+                .cannebière{height: 186px;
+                            width: 280px;
+                            margin-top: 1.6%;
+                            margin-left: 2%;}
+                
+                .la{margin-top: -0.5%;
+                   margin-left: 2.5%;}
+
+                .à{ margin-top: -0.6%;
+                    margin-left: 2.5%;}
+                 
+                .port{height: 200px;
+                    width: 280px;
+                    margin-top: -13.2%;
+                    margin-left: 22%;}
+
+                .h{margin-top: -1.18%;
+                   margin-left: 22.5%;}
+
+                .y{margin-top: -0.6%;
+                   margin-left: 22.5%;}
+
+                .mouette{height: 188px;
+                    width: 280px;
+                    margin-top: -13.15%;
+                    margin-left: 43%;}
+                .t{margin-top: -11px;
+                   margin-left: 43.5%;}
+
+                .i{margin-top: -12px;
+                   margin-left: 43.5%;}
+
+                .soleil{height: 160px;
+                   width: 180px;
+                   margin-top: -13%;
+                   margin-left: 68%; }
+
+                .a{margin-top: -8.8%;
+                   margin-left: 80%;}
+                
+                .z{margin-top: -0.6%;
+                    margin-left: 80%;}
+
+                .mère{height: 188px;
+                    width: 280px;
+                    margin-top: 13%;
+                    margin-left: 3%;}
+
+                .e{margin-top: -0.4%;
+                   margin-left: 3.5%;}
+
+                .r{margin-top: -0.60%;
+                    margin-left: 3.5%}
+
+                .panier{height: 188px;
+                    width: 280px;
+                    margin-top: -13.3%;
+                    margin-left: 23%;}
+
+                .k{margin-top: -0.4%;
+                   margin-left: 23.5%;}
+
+                .l{margin-top: -0.5%;
+                   margin-left: 23.5%;}
+
+                .amina{height: 188px;
+                    width: 280px;
+                    margin-top: -17.5%;
+                    margin-left: 25.5%;}
+
+                .b{margin-top: -2%;
+                margin-left: 4%;}
+
+                .n{margin-top: -4%;
+                  margin-left: 4%;}
+
+                .coeur{height: 160px;
+                    width: 180px;
+                    margin-top:-300px ;
+                    margin-left: 470px;
+                    }
+
+                .c{margin-top:-60%;
+                   margin-left: 700px;}
+
+                .v{margin-top:  -2%;
+                  margin-left:700px ;}
+
+                .bleu{height: 160px;
+                    width: 180px;
+                    margin-top: 30%;
+                    margin-left: 168%;}
+
+                .p{margin-top: -60%;
+                 margin-left:700px ;
+                    }
+
+                .m{margin-top: -2%;
+                    margin-left: 700px;}
+
+                .afficher{margin-top: -30%;
+                margin-bottom: 20px;
+                margin-left: -260%;}
+
+                .activités{
+                    margin-left: -278%;
+                    margin-top: 30%;}
+
+                .vieuport{margin-top: ;
+                        margin-left: -278%;
+                        height: 280px;
+                        width: 260px;}
+
+                .rg{margin-left: -274%;}
+
+                .pomegue{height: 140px;
+                        width: 340px;
+                        margin-top: -119%;
+                        margin-left: -166%;}
+
+                .jk{margin-left: -160%;
+                   margin-top: -4%;}
+
+                .frioul{height: 112px;
+                       width: 340px;
+                       margin-left: -166%;
+                       margin-top: -4.6%;
+                    }
+
+                .az{margin-left: -160%;}
+
+                .calanque{margin-top:-119% ;
+                    margin-left: -25%;
+                    height: 280px;
+                    width: 260px;}
+
+                .ql{margin-left: -20%;}
+
+                .garde{height: 112px;
+                    width: 340px;
+                    margin-left: 100%;
+                    margin-top: -119%;}
+
+                .nd{margin-left: 105%;
+                   }
+
+                .longchamp{height: 112px;
+                    width: 340px;
+                margin-left: 100%;
+                margin-top: -22.1%;}
+
+                .lc{margin-left: 105%;}
+
+                .prg{margin-left: -280%;}
+
+                .prh{margin-top: -40%;
+                     margin-left: -140%;}
+
+                .prj{margin-top: -30%;
+                  margin-left: 20%;}
+
+                
+
+
+
+
+                
+                
+
+
+                
+
+                
+
+                
+
+
+                 
+                  
+                    
+                  
+    
+
