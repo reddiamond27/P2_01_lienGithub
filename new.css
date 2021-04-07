@@ -1,235 +1,444 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
-    h2{
-        font-size: 20px;}
-        h3{
-            font-size: 16px;}
-            h4{
-                font-size: 14px;}
-                h5{
-                    font-size: 10px}
-                    p {font-family: 'Raleway', sans-serif;}
-                   h2 {font-family: 'Raleway', sans-serif;}
-                   h3 {font-family: 'Raleway', sans-serif;}
-                   h4 {font-family: 'Raleway', sans-serif;}
-                   h5 {font-family: 'Raleway', sans-serif;}
-                   h6 {font-family: 'Raleway', sans-serif;}
-                 
-                   img { width : 300px;  
-                    vertical-align:middle;}
-
-                .tittle{margin-left: 1%;
-                        width: 6%;
-                        height:6%;}
-
-                .inscription {margin-left: 83%;
-                            margin-top: -2%;
-                            letter-spacing: 1px;  
-                            word-spacing: 4px;}
-
-                .top{margin-top: 2%;
-                margin-left: 1.2%;}
-
-                .tope{margin-left: 1.2%;
-                      margin-top: -1%;}
-                     
-
-                .filtres{margin-left: 1.2%;
-                    margin-top: 4%;}
-
-                .lien{margin-top: -1.9%;
-                    margin-left: 4%;
-                    word-spacing: 10px;}
-
-                .gris{margin-top: 2%;
-                     margin-left: 20px;}
-
-                .hebergement{margin-top: 3%;
-                    margin-left: 1.6%;}
-
-                .populaires{margin-top: -2.2%;
-                     margin-left: 66%;
-                    word-spacing: 4px;}
-
-                .cannebière{height: 186px;
-                            width: 280px;
-                            margin-top: 1.6%;
-                            margin-left: 2%;}
-                
-                .la{margin-top: -0.5%;
-                   margin-left: 2.5%;}
-
-                .à{ margin-top: -0.6%;
-                    margin-left: 2.5%;}
-                 
-                .port{height: 200px;
-                    width: 280px;
-                    margin-top: -13.2%;
-                    margin-left: 22%;}
-
-                .h{margin-top: -1.18%;
-                   margin-left: 22.5%;}
-
-                .y{margin-top: -0.6%;
-                   margin-left: 22.5%;}
-
-                .mouette{height: 188px;
-                    width: 280px;
-                    margin-top: -13.15%;
-                    margin-left: 43%;}
-                .t{margin-top: -11px;
-                   margin-left: 43.5%;}
-
-                .i{margin-top: -12px;
-                   margin-left: 43.5%;}
-
-                .soleil{height: 160px;
-                   width: 180px;
-                   margin-top: -13%;
-                   margin-left: 68%; }
-
-                .a{margin-top: -8.8%;
-                   margin-left: 80%;}
-                
-                .z{margin-top: -0.6%;
-                    margin-left: 80%;}
-
-                .mère{height: 188px;
-                    width: 280px;
-                    margin-top: 13%;
-                    margin-left: 3%;}
-
-                .e{margin-top: -0.4%;
-                   margin-left: 3.5%;}
-
-                .r{margin-top: -0.60%;
-                    margin-left: 3.5%}
-
-                .panier{height: 188px;
-                    width: 280px;
-                    margin-top: -13.3%;
-                    margin-left: 23%;}
-
-                .k{margin-top: -0.4%;
-                   margin-left: 23.5%;}
-
-                .l{margin-top: -0.5%;
-                   margin-left: 23.5%;}
-
-                .amina{height: 188px;
-                    width: 280px;
-                    margin-top: -17.5%;
-                    margin-left: 25.5%;}
-
-                .b{margin-top: -2%;
-                margin-left: 4%;}
-
-                .n{margin-top: -4%;
-                  margin-left: 4%;}
-
-                .coeur{height: 160px;
-                    width: 180px;
-                    margin-top:-300px ;
-                    margin-left: 470px;
-                    }
-
-                .c{margin-top:-60%;
-                   margin-left: 700px;}
-
-                .v{margin-top:  -2%;
-                  margin-left:700px ;}
-
-                .bleu{height: 160px;
-                    width: 180px;
-                    margin-top: 30%;
-                    margin-left: 168%;}
-
-                .p{margin-top: -60%;
-                 margin-left:700px ;
-                    }
-
-                .m{margin-top: -2%;
-                    margin-left: 700px;}
-
-                .afficher{margin-top: -30%;
-                margin-bottom: 20px;
-                margin-left: -260%;}
-
-                .activités{
-                    margin-left: -278%;
-                    margin-top: 30%;}
-
-                .vieuport{margin-top: ;
-                        margin-left: -278%;
-                        height: 280px;
-                        width: 260px;}
-
-                .rg{margin-left: -274%;}
-
-                .pomegue{height: 140px;
-                        width: 340px;
-                        margin-top: -119%;
-                        margin-left: -166%;}
-
-                .jk{margin-left: -160%;
-                   margin-top: -4%;}
-
-                .frioul{height: 112px;
-                       width: 340px;
-                       margin-left: -166%;
-                       margin-top: -4.6%;
-                    }
-
-                .az{margin-left: -160%;}
-
-                .calanque{margin-top:-119% ;
-                    margin-left: -25%;
-                    height: 280px;
-                    width: 260px;}
-
-                .ql{margin-left: -20%;}
-
-                .garde{height: 112px;
-                    width: 340px;
-                    margin-left: 100%;
-                    margin-top: -119%;}
-
-                .nd{margin-left: 105%;
-                   }
-
-                .longchamp{height: 112px;
-                    width: 340px;
-                margin-left: 100%;
-                margin-top: -22.1%;}
-
-                .lc{margin-left: 105%;}
-
-                .prg{margin-left: -280%;}
-
-                .prh{margin-top: -40%;
-                     margin-left: -140%;}
-
-                .prj{margin-top: -30%;
-                  margin-left: 20%;}
-
-                
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
 
 
+/* HTML5 display-role reset for older browsers */
 
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
 
-                
-                
+body {
+    line-height: 1;
+}
 
+ol,
+ul {
+    list-style: none;
+}
 
-                
+blockquote,
+q {
+    quotes: none;
+}
 
-                
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
 
-                
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
 
+body {
+    margin-left: 25px;
+    margin-right: 25px;
+}
 
-                 
-                  
-                    
-                  
-    
+h2 {
+    font-size: 20px;
+}
 
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 10px
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.tittle {
+    width: 49%;
+    display: inline-block;
+}
+
+.inscription {
+    display: inline-block;
+    width: 49%;
+    word-spacing: 30px;
+    text-align: right;
+}
+
+.top {
+    width: 50%;
+    font-weight: 900;
+    margin-top: 8px;
+}
+
+.tope {
+    width: 50%;
+    margin-top: 8px;
+    font-size: smaller;
+}
+
+.filtres {
+    width: 12%;
+    margin-top: 80px;
+    display: inline-block;
+}
+
+.lien {
+    width: 12%;
+    display: inline-block;
+}
+
+.l1 {
+    width: 12%;
+    display: inline-block
+}
+
+.l2 {
+    width: 12%;
+    display: inline-block;
+}
+
+.l3 {
+    width: 12%;
+    display: inline-block;
+}
+
+.gris {
+    width: 40%;
+    margin-top: 30px;
+    font-size: x-small;
+}
+
+.background {
+    background-color: #DCDCDC;
+    margin-top: 40px;
+}
+
+.hebergement {
+    width: 30%;
+    padding-top: 30px;
+    font-weight: 900;
+    margin-left: 40px;
+    display: inline-block;
+}
+
+.populaires {
+    width: 60%;
+    display: inline-block;
+    text-align: right;
+    font-weight: 900;
+}
+
+.cannebière {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: ;
+    display: inline-block;
+}
+
+.image1 {
+    width: 220px;
+    height: 120px;
+}
+
+.image2 {
+    width: 220px;
+    height: 120px;
+}
+
+.image3 {
+    width: 220px;
+    height: 120px;
+}
+
+.la {}
+
+.à {}
+
+.port {
+    text-align: center;
+    width: 20%;
+    display: inline-block;
+}
+
+.h {}
+
+.y {}
+
+.mouette {
+    text-align: right;
+    width: 20%;
+    display: inline-block;
+}
+
+.t {}
+
+.i {}
+
+.soleil {
+    width: 25%;
+}
+
+.a {
+    width: 25%;
+}
+
+.z {
+    width: 25%;
+}
+
+.mère {
+    width: 25%;
+}
+
+.e {
+    width: 25%;
+}
+
+.r {
+    width: 25%;
+}
+
+.panier {
+    width: 25%;
+}
+
+.k {
+    width: 25%;
+}
+
+.l {
+    width: 25%;
+}
+
+.amina {
+    width: 25%;
+}
+
+.b {
+    width: 25%;
+}
+
+.n {
+    width: 25%;
+}
+
+.coeur {
+    width: 25%;
+}
+
+.c {
+    width: 25%;
+}
+
+.v {
+    width: 25%;
+}
+
+.bleu {
+    width: 25%;
+}
+
+.p {
+    width: 25%;
+}
+
+.m {
+    width: 25%;
+}
+
+.afficher {
+    width: 40%;
+}
+
+.activités {
+    width: 25%;
+}
+
+.vieuport {
+    width: 25%;
+}
+
+.rg {
+    width: 25%;
+}
+
+.pomegue {
+    width: 25%;
+}
+
+.jk {
+    width: 25%;
+}
+
+.frioul {
+    width: 25%;
+}
+
+.az {
+    width: 25%;
+}
+
+.calanque {
+    width: 25%;
+}
+
+.ql {
+    width: 25%;
+}
+
+.garde {
+    width: 25%;
+}
+
+.nd {
+    width: 25%;
+}
+
+.longchamp {
+    width: 25%;
+}
+
+.lc {
+    width: 25%;
+}
+
+.prg {
+    width: 33%;
+}
+
+.prh {
+    width: 33%;
+}
+
+.prj {
+    width: 33%;
+}
