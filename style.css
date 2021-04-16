@@ -238,207 +238,314 @@ h6 {
 }
 
 .background {
-    background-color: #DCDCDC;
     margin-top: 40px;
+    margin-right: 20px;
 }
 
 .hebergement {
-    width: 30%;
+    width: 60%;
     padding-top: 30px;
     font-weight: 900;
     margin-left: 40px;
     display: inline-block;
+    background-color: grey;
+    vertical-align: top;
 }
 
 .populaires {
-    width: 60%;
+    width: 30%;
     display: inline-block;
     text-align: right;
     font-weight: 900;
+    background-color: grey;
+    vertical-align: top;
+    margin-top: 30px;
 }
 
-.cannebière {
+.cannebiere {
     margin-top: 20px;
     margin-left: 40px;
-    width: ;
     display: inline-block;
 }
 
 .image1 {
     width: 220px;
     height: 120px;
+    display: inline-block;
 }
 
-.image2 {
+.photo {
     width: 220px;
     height: 120px;
+    display: inline-block;
 }
 
-.image3 {
+.video {
     width: 220px;
     height: 120px;
+    display: inline-block;
 }
 
-.la {}
+.la {
+    display: inline-block;
+}
 
-.à {}
+.à {
+    display: inline-block;
+}
 
 .port {
-    text-align: center;
-    width: 20%;
     display: inline-block;
 }
 
-.h {}
+.h {
+    display: inline-block;
+}
 
-.y {}
+.y {
+    display: inline-block;
+}
 
 .mouette {
-    text-align: right;
-    width: 20%;
     display: inline-block;
 }
 
-.t {}
+.t {
+    display: inline-block;
+}
 
-.i {}
+.i {
+    display: inline-block;
+}
 
 .soleil {
-    width: 25%;
+    display: inline-block;
+}
+
+.soleile {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+}
+
+.mères {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+}
+
+.paniers {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+}
+
+.aminas {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+}
+
+.coeurs {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+}
+
+.bleue {
+    width: 220px;
+    height: 120px;
+    display: inline-block;
+    text-align: right;
 }
 
 .a {
-    width: 25%;
+    text-align: right;
 }
 
 .z {
-    width: 25%;
+    text-align: right;
 }
 
 .mère {
-    width: 25%;
+    display: inline-block;
 }
 
 .e {
-    width: 25%;
+    display: inline-block;
 }
 
 .r {
-    width: 25%;
+    display: inline-block;
 }
 
 .panier {
-    width: 25%;
+    display: inline-block;
 }
 
 .k {
-    width: 25%;
+    display: inline-block;
 }
 
 .l {
-    width: 25%;
+    display: inline-block;
 }
 
 .amina {
-    width: 25%;
+    display: inline-block;
 }
 
 .b {
-    width: 25%;
+    display: inline-block;
 }
 
 .n {
-    width: 25%;
+    display: inline-block;
 }
 
 .coeur {
-    width: 25%;
+    display: inline-block;
 }
 
 .c {
-    width: 25%;
+    display: inline-block;
 }
 
 .v {
-    width: 25%;
+    display: inline-block;
 }
 
 .bleu {
-    width: 25%;
+    display: inline-block;
+    text-align: right;
 }
 
 .p {
-    width: 25%;
+    text-align: right;
 }
 
 .m {
-    width: 25%;
+    text-align: right;
 }
 
 .afficher {
-    width: 40%;
+    width: 25%;
 }
 
-.activités {
+.activites {
     width: 25%;
+    margin-top: 10%;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.vieux {
+    width: 260px;
+    height: 360px;
 }
 
 .vieuport {
-    width: 25%;
+    width: 20%;
+    margin-left: 10px;
 }
 
 .rg {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
+}
+
+.pomme {
+    width: 300px;
+    height: 180px;
+    margin-left: 10px;
 }
 
 .pomegue {
-    width: 25%;
+    width: 20%;
 }
 
 .jk {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
 }
 
 .frioul {
-    width: 25%;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.friou {
+    width: 300px;
+    height: 180px;
 }
 
 .az {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
 }
 
 .calanque {
-    width: 25%;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.calan {
+    width: 260px;
+    height: 360px;
 }
 
 .ql {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
 }
 
 .garde {
-    width: 25%;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.gard {
+    width: 300px;
+    height: 180px;
 }
 
 .nd {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
 }
 
 .longchamp {
-    width: 25%;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.parc {
+    width: 300px;
+    height: 180px;
 }
 
 .lc {
-    width: 25%;
+    width: 20%;
+    margin-left: 20px;
+    margin-bottom: 10%;
 }
 
 .prg {
-    width: 33%;
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+    margin-left: 10px;
 }
 
 .prh {
-    width: 33%;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
 }
 
 .prj {
-    width: 33%;
+    width: 30%;
+    display: inline-block;
+    text-align: right;
+    margin-bottom: 10%;
 }
